@@ -1,0 +1,15 @@
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\obj\Debug\net6.0\zadacha2.csproj.AssemblyReference.cache
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\obj\Debug\net6.0\zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\obj\Debug\net6.0\zadacha2.AssemblyInfoInputs.cache
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\obj\Debug\net6.0\zadacha2.AssemblyInfo.cs
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\obj\Debug\net6.0\zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\bin\Debug\net6.0\zadacha2.exe
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\bin\Debug\net6.0\zadacha2.deps.json
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\bin\Debug\net6.0\zadacha2.runtimeconfig.json
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\bin\Debug\net6.0\zadacha2.dll
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\bin\Debug\net6.0\zadacha2.pdb
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\obj\Debug\net6.0\zadacha2.dll
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\obj\Debug\net6.0\refint\zadacha2.dll
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\obj\Debug\net6.0\zadacha2.pdb
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\obj\Debug\net6.0\zadacha2.genruntimeconfig.cache
+C:\Users\Yrchi\Desktop\Seminar1512\zadacha2\obj\Debug\net6.0\ref\zadacha2.dll
