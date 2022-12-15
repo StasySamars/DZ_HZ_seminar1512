@@ -1,6 +1,8 @@
-﻿// 1 вариант записи
+﻿//Семинар
+// 1 вариант записи
 
-//Console.Clear();
+//Console.Clear(); при запуске программы, очистин консоль
+
 
 //Console.Write("Введите число: ");
 //int a = int.Parse(Console.ReadLine());
@@ -12,5 +14,5 @@
 Console.Clear();
 
 Console.Write("Введите число: ");
-int a = int.Parse(Console.ReadLine());
+int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"Квадрат {a} = {a * a}");
