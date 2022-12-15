@@ -27,11 +27,11 @@ if (Num1 > Num2)
 else if (Num2 > Num3)
 {
 
- Console.WriteLine($"Максимальное значение = {Num2} ");
+    Console.WriteLine($"Максимальное значение = {Num2} ");
 }
 else
 {
-     Console.WriteLine($"Максимальное значение = {Num3} ");
+    Console.WriteLine($"Максимальное значение = {Num3} ");
 }
 
 
