@@ -8,10 +8,10 @@ int Num1 = Convert.ToInt32(Console.ReadLine());
 
 int i = 0;
 
-while (i < Num1)
+while (i < (Num1-1))
 {
     i += 2;
     Console.WriteLine(i);
 }
 
-Console.WriteLine(username + ", Все четные числа входящие в число " + (i) + " найдены!");
+Console.WriteLine(username + ", Все четные числа входящие в число " + (Num1) + " найдены!");
